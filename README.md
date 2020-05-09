@@ -14,3 +14,10 @@ THAI Global translation for mi-room miui.ms miui.su minovo miui.hu miuipro ros-r
 - ingbrzy
 - Xiaomi.eu
 
+## Structure
+
+dir | description
+:------------: | :------------:
+/Thai/extras | Widgets, Lockscreen e.g.
+/Thai/main | MIUI Apps (APK's) across all official Xiaomi MIUI devices
+
