@@ -14,7 +14,7 @@ THAI Global translation for mi-room miui.ms miui.su minovo miui.hu miuipro ros-r
 - ingbrzy
 - Xiaomi.eu
 
-## Structure
+## :cupid: Structure
 
 dir | description
 :------------: | :------------:
