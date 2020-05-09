@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">กำลังเลื่อนปลุกในอีก %d นาที</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d วัน</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">ลบการปลุกที่เลือกไว้?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">ลบโซนเวลานี้?</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d วัน</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d นาที</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d วินาที</item>
+    </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s ชั่วโมง</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s ชั่วโมง</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s นาที</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s นาที</item>
+    </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">เปลี่ยนช่วงเวลา snooze เป็น %d นาที</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">งีบหลับ %1$s ครั้ง</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">ทุก %1$s นาที งีบหลับ %2$s ครั้ง</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">ทุก %1$s นาที</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">นาฬิกาจะปลุก %2$s ครั้ง (%1$s นาที)</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">เลื่อนปลุกในอีก %d นาที</item>
+    </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d ชั่วโมง "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d นาที "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d วินาที</item>
+    </plurals>
+</resources>
