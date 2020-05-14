@@ -2053,4 +2053,8 @@ d MMM"</string>
     <string name="zen_priority_introduction">คุณจะไม่ถูกรบกวนด้วยเสียงและการสั่น ยกเว้นจากการปลุก การแจ้งเตือน กิจกรรม และผู้โทรที่คุณระบุ คุณยังได้ยินสิ่งที่คุณเลือกที่จะเล่นรวมถึงเพลง วิดีโอ และเกมส์</string>
     <string name="zen_silence_introduction">บล็อกเสียงและการสั่นทั้งหมด รวมทั้งจากการปลุก เพลง วิดีโอ และเกมส์</string>
     <string name="zen_silence_introduction_voice">บล็อกเสียงและการสั่นทั้งหมด รวมทั้งจากการปลุก เพลง วิดีโอ และเกมส์ คุณยังสามารถโทรออกได้</string>
+	<string name="yes_bubbles">ยอมรับ</string>
+     <string name="small_window_guide_title">หน้าต่างลอย</string>
+     <string name="small_window_notification_text">แตะเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับคุณสมบัตินี้ของ MIUI %d</string>
+     <string name="small_window_notification_title">หน้าต่างลอย</string>
 </resources>
