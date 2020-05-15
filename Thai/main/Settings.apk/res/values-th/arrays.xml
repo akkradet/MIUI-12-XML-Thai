@@ -1590,20 +1590,6 @@
         <item>บล็อกแล้ว</item>
         <item>หลีกเลี่ยงการเชื่อมต่อที่ไม่ดี</item>
     </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>กำลังสแกน…</item>
-        <item>กำลังเชื่อมต่อกับ %1$s…</item>
-        <item>การรับรองความถูกต้องด้วย %1$s…</item>
-        <item>ได้รับที่อยู่ IP จาก %1$s…</item>
-        <item>กำลังเชื่อมต่อกับ %1$s</item>
-        <item>ระงับแล้ว</item>
-        <item>กำลังตัดการเชื่อมต่อจาก %1$s…</item>
-        <item>ตัดการเชื่อมต่อ</item>
-        <item>ไม่สำเร็จ</item>
-        <item>บล็อกแล้ว</item>
-        <item>หลีกเลี่ยงการเชื่อมต่อที่ไม่ดี</item>
-    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
         <item>ภาพเคลื่อนไหวซูม 0.5x</item>
@@ -1612,5 +1598,33 @@
         <item>ภาพเคลื่อนไหวซูม 2x</item>
         <item>ภาพเคลื่อนไหวซูม 5x</item>
         <item>ภาพเคลื่อนไหวซูม 10x</item>
+    </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3GB</item>
+        <item>16GB</item>
+        <item>Quad-core Max 2.5GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>ความจุแบตเตอรี่</item>
+        <item>กล้องหลัง</item>
+        <item>ขนาดหน้าจอ</item>
+        <item>ความละเอียด</item>
+        <item>เวอร์ชั่นแอนดรอยด์</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 835</item>
+        <item>3350mAh(typ)</item>
+        <item>12MP + 12MP</item>
+        <item>5.15 นิ้ว</item>
+        <item>1920 × 1080</item>
+        <item>6.0.1</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>ต่ำมาก</item>
+        <item>ต่ำ</item>
+        <item>ปกติ</item>
+        <item>สูง</item>
+        <item>สูงมาก</item>
     </string-array>
 </resources>
