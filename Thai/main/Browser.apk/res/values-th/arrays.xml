@@ -35,8 +35,15 @@
         <item>สีเขียว</item>
         <item>สีน้ำเงิน</item>
     </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>เนื้อหาที่ไม่เหมาะสม</item>
+        <item>การหลอกลวง</item>
+        <item>ข่าวเก่า</item>
+        <item>มุมมองที่รุนแรง</item>
+        <item>โฆษณาแฝง</item>
+    </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
-        <item>ย้อนกลับหรือถัดไปของหน้าเว็บ</item>
+        <item>ย้อนกลับ/ไปข้างหน้า</item>
         <item>สลับแท็บ</item>
         <item>ไม่</item>
     </string-array>

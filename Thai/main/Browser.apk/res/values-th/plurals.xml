@@ -9,20 +9,32 @@
     <plurals name="articles_updated_amount">
         <item quantity="other">ตรวจสอบ %1$d บทความใหม่</item>
     </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">ลบ %d การดำเนินงาน?</item>
+    <plurals name="auto_play_next_tips">
+        <item quantity="other">เล่นวิดีโอถัดไปใน %d วินาที</item>
+    </plurals>
+    <plurals name="download_business_v5_edit_mode_title">
+        <item quantity="other">%1$d ถูกเลือก</item>
+    </plurals>
+    <plurals name="download_dialog_confirm_delete_downloads_message">
+        <item quantity="other">ลบ %d การทำงานนี้?</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">พบ %d รายการ</item>
     </plurals>
+    <plurals name="le_notification_download_completed">
+        <item quantity="other">ดาวน์โหลด %d รายการเรียบร้อย</item>
+    </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="other">%d วันที่แล้ว</item>
+        <item quantity="other">ล่าสุด %d วัน</item>
     </plurals>
     <plurals name="mw_matches_found">
-        <item quantity="other">พบ %1$d จาก %2$d</item>
+        <item quantity="other">%1$d จาก %2$d</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">จะสร้างหน้าใหม่โดยอัตโนมัติหลังจาก %d วินาที</item>
+    </plurals>
+    <plurals name="nf_item_like">
+        <item quantity="other">%s ไลค์</item>
     </plurals>
     <plurals name="pref_adblock_counts">
         <item quantity="other">บล็อกแล้ว %d รายการ</item>
@@ -36,30 +48,6 @@
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">เพลงยอดนิยม %d เพลง</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">เล่นวิดีโอใน %1$d วินาที</item>
-    </plurals>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">เลือก %1$d รายการ</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">ลบ %1$d วิดีโอเรียบร้อยแล้ว</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">ล้าง %1$d วิดีโอ?</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d รายการถูกลบออกจากประวัติ</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">ลบ %1$d รายการออกจากประวัติ?</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">อัพเดท %1$d รายการ</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">เหลืออีก %d นาที</item>
-    </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">ดูวิดีโอใหม่ %1$d รายการ</item>
     </plurals>
@@ -71,11 +59,5 @@
     </plurals>
     <plurals name="vote_all_people">
         <item quantity="other">โหวต %d คน</item>
-    </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">%d วันที่แล้ว</item>
-    </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">พบ %1$d จาก %2$d</item>
     </plurals>
 </resources>
