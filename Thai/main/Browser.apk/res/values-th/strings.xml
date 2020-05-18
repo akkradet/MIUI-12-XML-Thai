@@ -1072,4 +1072,9 @@
     <string name="weather_location_confirm_message">การปิดคุณลักษณะนี้จะมีผลต่อการใช้งาน</string>
     <string name="weather_publish_time">อัปเดตล่าสุด %1$s</string>
     <string name="webpage_title">ตัวคั่นหน้า &amp; ประวัติ</string>
+	<string name="pref_download_setting">ดาวน์โหลดการตั้งค่า</string>
+	<string name="data_monitor">เตือนการตรวจสอบทราฟฟิก</string>
+	<string name="pref_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="pref_tab_restore">กู้คืนหน้าล่าสุดเมื่อเริ่มต้น</string>
+    <string name="pref_label_advert_manager">จัดการโฆษณาที่ติดป้ายกำกับ</string>
 </resources>
