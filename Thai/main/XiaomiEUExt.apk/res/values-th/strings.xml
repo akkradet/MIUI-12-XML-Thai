@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
+	<string name="add">เพิ่ม</string>
+	<string name="app_name">ส่วนขยาย Xiaomi.eu</string>
+	<string name="confirm_reset">ยืนยันการรีเซ็ต</string>
+	<string name="confirm_reset_message">รีเซ็ตเป็นแอปพลิเคชันเริ่มต้นหรือไม่</string>
+	<string name="delete">ลบ</string>
+	<string name="lockscreen_side_apps">ปุ่มลัดบนแผงด้านข้าง</string>
+	<string name="no_apps">ไม่มีแอพ</string>
+	<string name="reset">ตั้งค่าใหม่</string>
+	<string name="select_app">เลือกแอพ</string>
+	<string name="select_apps">เลือกแอพ</string>
+	<string name="hide_apps_close">ไอคอนแอปพลิเคชันที่มองเห็นได้</string>
+	<string name="hide_apps_open">ไอคอนแอพที่ซ่อนอยู่</string>
+	<string name="home_hide_apps">ซ่อนไอคอนแอปพลิเคชัน</string>
+	<string name="loading">กำลังโหลด...</string>
 </resources>
