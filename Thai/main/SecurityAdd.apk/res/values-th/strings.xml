@@ -110,7 +110,7 @@
     <string name="superpower_battery_dangerous">เชื่อมต่อเครื่องชาร์จโดยเร็วที่สุด</string>
     <string name="superpower_date">EEEE dd MMMM</string>
     <string name="superpower_dialog_app_select_content">โดยทั่วไปแอปภายนอกจะใช้พลังงานมากกว่าแอพของระบบ ยืนยันเพิ่มหรือไม่</string>
-    <string name="superpower_dialog_app_select_title">คำเตือน</string>
+    <string name="superpower_dialog_app_select_title">โปรดทราบ</string>
     <string name="superpower_exit_hint">ปิดใช้งานตัวประหยัดแบตเตอรี่อัลตร้า…</string>
     <string name="superpower_incharging">กำลังชาร์จ</string>
     <string name="superpower_progress_battery_last">คงเหลือ %s</string>
