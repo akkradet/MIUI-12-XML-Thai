@@ -1,7 +1,7 @@
 ## :cupid: MIUI-12-XML-Thai
 THAI Global translation for mi-room miui.ms miui.su minovo miui.hu miuipro ros-rom MultiRom project.
 ## :cupid: MIUI12 Thai Translations.
-    This is repository for MIUIAndroid MultiRom project.
+    Add line to jBART/data/settings/repo.miui.v12.main.conf: github::akkradet/MIUI-12-XML-Thai=Thai (akkradet)
 ## :cupid: Translator:
 --Thai--
 - THAI Global
