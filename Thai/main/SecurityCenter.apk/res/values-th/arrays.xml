@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_repeat_type">
+     <string-array name="alarm_repeat_type">
         <item>ครั้งเดียว</item>
         <item>ทุกวัน</item>
         <item>วันทำงาน</item>
         <item>ทุกวันธรรมดา</item>
         <item>กำหนดเอง</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
         <item>ครั้งเดียว</item>
         <item>ทุกวัน</item>
         <item>ทุกวันธรรมดา</item>
         <item>กำหนดเอง</item>
-    </string-array>
-    <string-array name="applock_password_types">
+     </string-array>
+     <string-array name="app_behavior_type_menu">
+        <item>บันทึกทั้งหมด</item>
+        <item>เริ่มอัตโนมัติ</item>
+        <item>โปรแกรมเริ่มต้น</item>
+        <item>ใช้สิทธิ์</item>
+        <item>การดำเนินการที่ละเอียดอ่อน</item>
+     </string-array>
+     <string-array name="applock_password_types">
         <item>รูปแบบ</item>
         <item>PIN</item>
         <item>รหัสผ่าน</item>
-    </string-array>
-    <string-array name="date_of_app_all">
+     </string-array>
+     <string-array name="daily_brand">
+        <item>กำหนดเอง</item>
+        <item>การ์ดแฟนคลับ Mi</item>
+        <item>บัตร Xiao Tiansheng</item>
+        <item>บัตร Tencent King</item>
+     </string-array>
+     <string-array name="date_of_app_all">
         <item>"เมื่อวานนี้ (ข้อมูลมือถือ) "</item>
         <item>"วันนี้ (ข้อมูลมือถือ) "</item>
         <item>"เดือนที่แล้ว (ข้อมูลมือถือ) "</item>
@@ -27,95 +40,133 @@
         <item>"วันนี้ (Wi-Fi) "</item>
         <item>"เดือนที่แล้ว (Wi-Fi) "</item>
         <item>"เดือนนี้ (Wi-Fi) "</item>
-    </string-array>
-    <string-array name="date_of_traffic">
+     </string-array>
+     <string-array name="date_of_traffic">
         <item>"เมื่อวานนี้ "</item>
         <item>"วันนี้ "</item>
         <item>"เดือนที่แล้ว "</item>
         <item>"เดือนนี้ "</item>
-    </string-array>
-    <string-array name="date_of_traffic_cmcc">
+     </string-array>
+     <string-array name="date_of_traffic_cmcc">
         <item>"สัปดาห์นี้ "</item>
         <item>"วันนี้ "</item>
         <item>"เดือนนี้ "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix">
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
         <item>"เมื่อวานนี้: "</item>
         <item>"วันนี้: "</item>
         <item>"เดือนที่แล้ว: "</item>
         <item>"เดือนนี้: "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
+     </string-array>
+     <string-array name="date_of_traffic_prefix_cmcc">
         <item>"สัปดาห์นี้: "</item>
         <item>"วันนี้: "</item>
         <item>"เดือนนี้: "</item>
-    </string-array>
-    <string-array name="lock_mode">
+     </string-array>
+     <string-array name="debug_open_intercept">
+        <item>จะสามารถเข้าถึงและแก้ไขไฟล์ในอุปกรณ์ของคุณโดยใช้คอมพิวเตอร์</item>
+        <item>การติดตั้งแอปในอุปกรณ์ของคุณโดยไม่ได้รับอนุญาตอย่างชัดแจ้งจะได้รับอนุญาต</item>
+        <item>คุณจะสามารถตรวจสอบและบันทึกเนื้อหาหน้าจอของคุณจากระยะไกล</item>
+        <item>มันจะเป็นไปได้ในการเข้าถึงข้อมูลรายละเอียดเกี่ยวกับอุปกรณ์ของคุณ</item>
+     </string-array>
+     <string-array name="lock_mode">
         <item>เมื่ออุปกรณ์ถูกล็อก</item>
         <item>เมื่ออุปกรณ์ถูกล็อกหรือออกจากแอป</item>
         <item>เมื่ออุปกรณ์ถูกล็อกหรือหลังออกจากแอป 1 นาที</item>
-    </string-array>
-    <string-array name="lock_mode_value">
+     </string-array>
+     <string-array name="lock_mode_value">
         <item>1</item>
         <item>0</item>
         <item>2</item>
-    </string-array>
-    <string-array name="mi_service_traffic_type">
+     </string-array>
+     <string-array name="mi_service_traffic_type">
         <item>"การใช้มือถือ  "</item>
         <item>"การใช้ Wi-Fi "</item>
-    </string-array>
-    <string-array name="over_limit_traffic_waring_style">
+     </string-array>
+     <string-array name="miui_optimization_close_intercept">
+        <item>สำคัญ: แอประบบหลายรายการอาจหยุดทำงานอย่างถูกต้อง</item>
+        <item>เค้าโครงข้อความ บัญชี และเนื้อหาอาจแสดงไม่ถูกต้อง</item>
+     </string-array>
+     <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="over_limit_traffic_waring_style">
         <item>แสดงการแจ้งเตือน</item>
         <item>แจ้งเตือนและปิดใช้ข้อมูลมือถือ</item>
-    </string-array>
-    <string-array name="pc_settings_thermal_entries">
+     </string-array>
+     <string-array name="pc_settings_thermal_entries">
         <item>ค่าเริ่มต้น</item>
         <item>จัดลำดับความสำคัญของประสิทธิภาพ</item>
-    </string-array>
-    <string-array name="pc_settings_thermal_summaries">
+     </string-array>
+     <string-array name="pc_settings_thermal_summaries">
         <item>กำลังใช้โหมดควบคุมอุณหภูมิเริ่มต้น</item>
         <item>กำลังจัดลำดับความสำคัญของประสิทธิภาพ</item>
-    </string-array>
-    <string-array name="roaming_network_type">
+     </string-array>
+     <string-array name="perm_intercept_notification">
+        <item>อ่านการแจ้งเตือนทั้งหมดของคุณ รวมถึงเนื้อหาของข้อความและรายการอื่นๆ ที่อาจมีข้อมูลส่วนบุคคล</item>
+        <item>จำกัดสิทธิ์การแจ้งเตือนสำหรับบางแอป</item>
+        <item>จำลองการแตะการแจ้งเตือนและเปิดแอป</item>
+        <item>เปิดและปิดโหมดห้ามรบกวน</item>
+     </string-array>
+     <string-array name="perm_intercept_statitics">
+        <item>รวบรวมข้อมูลเกี่ยวกับความสนใจและพฤติกรรมของคุณโดยเรียนรู้ว่าคุณใช้แอปใดและใช้บ่อยแค่ไหน</item>
+        <item>เข้าถึงการตั้งค่าที่เกี่ยวข้องกับผู้ให้บริการและภาษา รวมถึงรายละเอียดอื่นๆ</item>
+     </string-array>
+     <string-array name="perm_intercept_unknown_source">
+        <item>แอปของบุคคลที่สามที่ไม่ได้รับการตรวจสอบโดย GetApps อาจทำให้เกิดปัญหาหลายประการและลดความเสถียรของระบบ</item>
+        <item>แอปของบุคคลที่สามบางแห่งอาจมีมัลแวร์ซึ่งทำให้ข้อมูลส่วนบุคคลของคุณตกอยู่ในความเสี่ยง</item>
+     </string-array>
+     <string-array name="priority_storage_entries">
+        <item>พื้นที่จัดเก็บข้อมูลในเครื่อง</item>
+        <item>ที่เก็บข้อมูลภายนอก</item>
+     </string-array>
+     <string-array name="roaming_network_type">
         <item>เปิดเสมอ</item>
         <item>รายการยกเว้นเท่านั้น</item>
         <item>ไม่ต้อง</item>
-    </string-array>
-    <string-array name="sms_report_type">
+     </string-array>
+     <string-array name="sms_report_type">
         <item>การใช้งานข้อมูล</item>
         <item>ยอดโทรคงเหลือ</item>
-    </string-array>
-    <string-array name="sort_title">
+     </string-array>
+     <string-array name="sort_title">
         <item>เรียงตามสถานะ</item>
         <item>เรียงตามชื่อแอป</item>
         <item>เรียงตามที่ใช้บ่อย</item>
         <item>เรียงตามพื้นที่เก็บข้อมูลที่ใช้</item>
         <item>เรียงตามเวลาการติดตั้ง</item>
-    </string-array>
-    <string-array name="sort_type">
+     </string-array>
+     <string-array name="sort_type">
         <item>สถานะ</item>
         <item>ชื่อแอป</item>
         <item>ที่ใช้บ่อย</item>
         <item>พื้นที่เก็บข้อมูลที่ใช้</item>
         <item>เวลาการติดตั้ง</item>
-    </string-array>
-    <string-array name="tether_limit_warn_type">
+     </string-array>
+     <string-array name="tether_limit_warn_type">
         <item>ปิดใช้งานและแจ้งให้ทราบ</item>
         <item>แจ้งให้ทราบเท่านั้น</item>
-    </string-array>
-    <string-array name="title_app_info">
+     </string-array>
+     <string-array name="title_app_info">
         <item>แหล่งการติดตั้ง</item>
         <item>เวลาการติดตั้ง</item>
         <item>แหล่งที่มาอัปเดตล่าสุด</item>
         <item>เวลาอัปเดตล่าสุด</item>
-    </string-array>
-    <string-array name="traffic_package_type">
+     </string-array>
+     <string-array name="traffic_package_type">
         <item>แพ็คเกจข้อมูลรายเดือน</item>
         <item>แพ็คเกจข้อมูลรายวัน</item>
         <item>แพ็คเกจข้อมูลไม่จำกัด</item>
-    </string-array>
-    <string-array name="traffic_type">
+     </string-array>
+     <string-array name="traffic_type">
         <item>"การใช้ข้อมูลมือถือ "</item>
         <item>"การใช้ Wi-Fi "</item>
-    </string-array>
+     </string-array>
 </resources>

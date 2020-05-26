@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="aod_dual_togother_city">
+     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$sชั่วโมง %2$s"</item>
-    </plurals>
+     </plurals>
+     <plurals name="count_selected">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
+     </plurals>
 </resources>
