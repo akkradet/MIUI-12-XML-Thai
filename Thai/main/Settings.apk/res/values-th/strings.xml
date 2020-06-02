@@ -890,7 +890,7 @@
      <string name="battery_details_title">การใช้งานแบตเตอรี่</string>
      <string name="battery_footer_summary">ข้อมูลการใช้งานแบตเตอรี่เป็นเพียงการประมาณการและอาจเปลี่ยนไปตามการใช้งาน</string>
      <string name="battery_full_charge_last">การชาร์จเต็มใช้งานได้นานประมาณ</string>
-     <string name="battery_header_title_alternate">^1<small> <font size="20">%</font></small></string>
+	 <string name="battery_header_title_alternate">^1&lt;small&gt; &lt;font size="20"&gt;%&lt;/font&gt;&lt;/small&gt;</string>
      <string name="battery_indicator_style">สถานะแบตเตอรี่</string>
      <string name="battery_indicator_title">ตัวแสดงสถานะแบตเตอรี่</string>
      <string name="battery_info_awake_battery">ระยะเวลาใช้งานบนแบตเตอรี่:</string>
