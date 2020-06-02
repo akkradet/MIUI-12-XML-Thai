@@ -1864,7 +1864,7 @@ aptX Adaptive: โหมด Codec"</string>
      <string name="connect_to_internet">เชื่อมต่อกับเครือข่าย</string>
      <string name="connect_wifi">เชื่อมต่อกับ WiFi</string>
      <string name="connect_wifi_tip">ไม่มีการเชื่อมต่อเครือข่าย เชื่อมต่อกับเครือข่ายเพื่อนำเข้ารายการจาก iCloud</string>
-     <string name="connected">เกี่ยวข้อง</string>
+     <string name="connected">เชื่อมต่อแล้ว</string>
      <string name="connected_device_add_device_summary">บลูทูธจะเปิดเพื่อจับคู่อุปกรณ์</string>
      <string name="connected_device_add_device_title">เพิ่มอุปกรณ์</string>
      <string name="connected_device_available_call_title">อุปกรณ์สำหรับโทรที่ใช้ได้</string>
