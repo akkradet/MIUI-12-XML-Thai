@@ -16,10 +16,10 @@
      <string name="HIPS_Perm_Calendar_Desc">เข้าถึงกำหนดการในปฏิทินของคุณ</string>
      <string name="HIPS_Perm_Call">โทรออกได้</string>
      <string name="HIPS_Perm_CallLog">เขียนและลบประวัติการโทรเข้าออก</string>
-     <string name="HIPS_Perm_CallLog_Desc">เขียนและลบประวัติการโทรเข้าออก</string>
+     <string name="HIPS_Perm_CallLog_Desc">แก้ไขประวัติการโทร</string>
      <string name="HIPS_Perm_Call_Desc">โทรออกได้โดยตรง</string>
      <string name="HIPS_Perm_Contact">แก้ไขและลบรายชื่อผู้ติดต่อ</string>
-     <string name="HIPS_Perm_Contact_Desc">แก้ไขและลบรายชื่อผู้ติดต่อ</string>
+     <string name="HIPS_Perm_Contact_Desc">แก้ไขรายชื่อ</string>
      <string name="HIPS_Perm_External_Storage">การเข้าถึงและเปลี่ยนแปลงไฟล์บนพื้นที่เก็บข้อมูลภายใน</string>
      <string name="HIPS_Perm_External_Storage_Desc">เพิ่มและลบไฟล์บนพื้นที่จัดเก็บข้อมูลภายในของอุปกรณ์</string>
      <string name="HIPS_Perm_Intl_group_desc_audio_recorder">การบันทึกเสียงและการโทร</string>
@@ -100,7 +100,7 @@
      <string name="HIPS_SecurityPrompt_Reject_Once">ปฏิเสธครั้งนี้ (%d)</string>
      <string name="HIPS_SecurityPrompt_Title">%1$s กำลังจะ %2$s</string>
      <string name="Su_Package_Forbidden2">ไม่ได้รับอนุญาตให้ใช้งานรูท</string>
-     <string name="app_name">ตัวจัดการสิทธิ์</string>
+     <string name="app_name">การอนุญาต</string>
      <string name="background_location_access_reminder_notification_content">แอปนี้สามารถเข้าถึงตำแหน่งของคุณได้ตลอดเวลา แตะเพื่อเปลี่ยน</string>
      <string name="background_location_access_reminder_notification_title">%s ได้ใช้ตำแหน่งของคุณอยู่</string>
      <string name="current_permission_template">%1$s จาก %2$s</string>
@@ -113,7 +113,7 @@
      <string name="grant_dialog_button_deny">ปฏิเสธ</string>
      <string name="grant_dialog_button_deny_and_dont_ask_again">ปฏิเสธและไม่ต้องถามอีก</string>
      <string name="grant_dialog_button_deny_background">เฉพาะในขณะที่ใช้แอป</string>
-     <string name="grant_dialog_button_deny_background_and_dont_ask_again">ปฏิเสธและไม่ต้องถามอีก</string>
+     <string name="grant_dialog_button_deny_background_and_dont_ask_again">เสมอ แต่เฉพาะในขณะที่ใช้แอปเท่านั้น</string>
      <string name="location_settings">การตั้งค่าตำแหน่ง</string>
      <string name="location_warning">%1$s เป็นผู้ให้บริการการระบุตำแหน่งพิกัดสำหรับอุปกรณ์นี้ การเข้าถึงสถานที่ตั้งสามารถแก้ไขได้จากการตั้งค่าตำแหน่งพิกัด</string>
      <string name="never_ask_again">ไม่ต้องถามอีกหลังจากจำกัด</string>

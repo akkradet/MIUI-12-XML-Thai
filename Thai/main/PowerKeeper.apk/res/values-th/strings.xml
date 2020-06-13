@@ -63,7 +63,7 @@
      <string name="copy">คัดลอก</string>
      <string name="current_cloud_addr_is">ที่อยู่เซิร์ฟเวอร์คลาวด์ควบคุมคือ:</string>
      <string name="empty_title_apps_container_list">ไม่มีแอป</string>
-     <string name="enable_sleep_mode">เปิดโหมดสลีปเพื่อเพิ่มประสิทธิภาพการใช้แบตเตอรี่เวลากลางคืน</string>
+     <string name="enable_sleep_mode">เปิดโหมดพักหน้าจอเพื่อเพิ่มประสิทธิภาพการใช้แบตเตอรี่เวลากลางคืน</string>
      <string name="error_filename_too_long">ชื่อไฟล์ที่คุณป้อนยาวเกินไป</string>
      <string name="expand_button_title">ขั้นสูง</string>
      <string name="extreme_add_white_list_summary">เพิ่มมากถึง 4 แอป</string>
@@ -83,7 +83,7 @@
      <string name="high_temp_state">ร้อนเกิน</string>
      <string name="high_temp_state_message">อุปกรณ์ของคุณร้อนเกินไป ข้อมูลมือถือ ฮอตสปอต Wi-Fi GPS และกล้อง จะถูกจำกัด</string>
      <string name="hints_loading_text">รอสักครู่…</string>
-     <string name="important_warning">คำเตือน</string>
+     <string name="important_warning">โปรดทราบ</string>
      <string name="lasttime_applist_cloud">อัปเดตแอป:</string>
      <string name="lasttime_feature_cloud">อัปเดตคุณลักษณะ:</string>
      <string name="message_i_know">รับทราบ</string>
@@ -134,7 +134,7 @@
      <string name="sleep_config_enhance_title">โหมดพักหน้าจอ</string>
      <string name="sleepmode_disclaimer_agree">ยอมรับ</string>
      <string name="sleepmode_disclaimer_cancel">ยกเลิก </string>
-     <string name="sleepmode_privacy_content">คุณลักษณะนี้จะใช้ข้อมูลของระบบโทรศัพท์และอุปกรณ์ของคุณ นั่นจะไม่สามารถอัพโหลดไปยังเซิร์ฟเวอร์ได้</string>
+     <string name="sleepmode_privacy_content">คุณลักษณะนี้จะใช้ข้อมูลของระบบโทรศัพท์และอุปกรณ์ของคุณ นั่นจะไม่สามารถอัปโหลดไปยังเซิร์ฟเวอร์ได้</string>
      <string name="sleepmode_privacy_link">เรียนรู้เพิ่มเติมเกี่ยวกับความเป็นส่วนตัวและความปลอดภัย</string>
      <string name="sleepmode_privacy_title">โหมดพักหน้าจอ</string>
      <string name="status_bar_notification_info_overflow">999+</string>
