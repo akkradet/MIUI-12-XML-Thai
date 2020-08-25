@@ -69,16 +69,6 @@
     <string name="manage_applications">จัดการแอป</string>
     <string name="manage_device_administrators">จัดการแอปผู้ดูแลระบบอุปกรณ์</string>
     <string name="manage_users">จัดการผู้ใช้</string>
-    <string name="miui_install_source">จาก \"%s\"</string>
-    <string name="miui_install_source_unkown">ไม่รู้จักที่มา</string>
-    <string name="miui_install_success">ติดตั้งเรียบร้อยแล้ว</string>
-    <string name="miui_install_version">เวอร์ชั่น: %1$s | ขนาด: %2$s</string>
-    <string name="miui_installing">กำลังติดตั้ง…</string>
-    <string name="miui_installing2">กำลังติดตั้ง…</string>
-    <string name="miui_clear_apks">ลบแพ็คเกจการติดตั้งและข้อมูลที่เหลือ (%s)</string>
-    <string name="miui_clear_apk_desc">ลบแพ็คเกจการติดตั้งและข้อมูลที่เหลือแล้ว (%s)</string>
-    <string name="miui_app_permission_detail">สิทธิ์ที่จำเป็น</string>
-    <string name="permission_title">%1$s สิทธิ์</string>
     <string name="message_staging">กำลังปรับสภาพแวดล้อมของแอป…</string>
     <string name="notification_installation_success_message">ติดตั้งเรียบร้อยแล้ว</string>
     <string name="notification_installation_success_status">ติดตั้ง “%1$s” สำเร็จแล้ว</string>
