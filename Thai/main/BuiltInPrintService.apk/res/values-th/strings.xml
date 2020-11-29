@@ -24,6 +24,7 @@
     <string name="media_size_8x10in">8x10 in</string>
     <string name="no_printer_found">ไม่พบเครื่องพิมพ์ตามที่อยู่นี้</string>
     <string name="not_encrypted_request">เครื่องพิมพ์นี้ไม่รับงานเข้ารหัสอีกต่อไป พิมพ์ต่อไปหรือไม่?</string>
+    <string name="print">พิมพ์</string>
     <string name="printer_bad_certificate">ใบรับรองไม่ถูกต้อง</string>
     <string name="printer_busy">ไม่ว่าง</string>
     <string name="printer_check">ตรวจสอบเครื่องพิมพ์</string>
@@ -37,6 +38,11 @@
     <string name="printer_out_of_ink">หมึกหมด</string>
     <string name="printer_out_of_paper">กระดาษหมด</string>
     <string name="printer_out_of_toner">ผงหมึกหมด</string>
+    <string name="recommendation_enable_summary">เลือกเพื่อเปิดใช้</string>
+    <string name="recommendation_install_summary">เลือกเพื่อติดตั้ง</string>
+    <string name="recommendation_manage">จัดการบริการ</string>
+    <string name="recommendation_summary">บริการการพิมพ์เริ่มต้นมีตัวเลือกพื้นฐานต่างๆ ตัวเลือกอื่นๆ สำหรับเครื่องพิมพ์นี้อาจพร้อมให้ใช้งานจากบริการการพิมพ์อื่น</string>
+    <string name="recommendations_heading">บริการที่แนะนำ</string>
     <string name="reject">ปฏิเสธ</string>
     <string name="saved_printers">บันทึกเครื่องพิมพ์แล้ว</string>
     <string name="searching">กำลังค้นหา…</string>

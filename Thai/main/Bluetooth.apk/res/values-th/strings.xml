@@ -79,9 +79,6 @@
     <string name="incoming_line3">ขนาด</string>
     <string name="insert_record">แทรกบันทึก</string>
     <string name="localPhoneName">ชื่อของฉัน</string>
-    <string name="miui_transfer_history_title">ส่งข้อมูลผ่านบลูทูธ</string>
-    <string name="miui_transfer_inbound_title">ขาเข้า</string>
-    <string name="miui_transfer_outbound_title">ขาออก</string>
     <string name="no_transfers">ไม่มีประวัติการโอนข้อมูล</string>
     <string name="not_exist_file">ไม่มีไฟล์</string>
     <string name="not_exist_file_desc">"ไม่มีไฟล์นี้
@@ -136,7 +133,6 @@
     <string name="upload_fail_cancel">ปิด</string>
     <string name="upload_fail_line1">ไม่ได้ส่งไฟล์ถึง \"%1$s\"</string>
     <string name="upload_fail_line1_2">ไฟล์: %1$s</string>
-    <string name="upload_fail_ok">ลองใหม่อีกครั้ง</string>
     <string name="upload_line1">ถึง: \"%1$s\"</string>
     <string name="upload_line3">ประเภทไฟล์: %1$s (%2$s)</string>
     <string name="upload_line5">กำลังส่งไฟล์...</string>

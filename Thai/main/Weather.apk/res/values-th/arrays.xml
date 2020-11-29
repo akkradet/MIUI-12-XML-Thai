@@ -77,15 +77,6 @@
         <item>ปานกลาง</item>
         <item>เบา</item>
     </string-array>
-    <string-array name="pollution_level_desc_arr">
-        <item>ยอดเยี่ยม</item>
-        <item>ดีมาก</item>
-        <item>มลพิษน้อย</item>
-        <item>มลพิษปานกลาง</item>
-        <item>มลพิษหนัก</item>
-        <item>มลพิษรุนแรง</item>
-        <item>เกินดัชนี</item>
-    </string-array>
     <string-array name="weather_type">
         <item>แจ่มใส</item>
         <item>มีเมฆ</item>
